@@ -1,0 +1,19 @@
+@use"_color.sccs ;
+@import"./color
+@use"./color.scss
+
+$color:red;
+
+.main{
+    background-color: $color;
+    width: 500px; height: 500px;
+    display: flex;
+    .container{
+        background-color: blue;
+        width: 50%; height: 100%;
+    }
+    .container2{
+background-color: aqua;
+width: 50%; height: 100%;
+    }
+}

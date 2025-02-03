@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Karla", sans-serif;
+}
+
+.main{
+    display: flex;
+    height: 80px;
+    padding: 40px 60px;
+    align-items: center;
+}
+ul{
+    width: 90%;
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    gap:40px;
+}
+.main img{
+width: 90px;
+height: 51px;
+}
+.textdecoration{
+    padding-left: 200px;
+    text-decoration: underline;
+    border-bottom:;
+    flex-direction: row;
+    display: flex;
+    gap: 50px;
+    
+
+}

@@ -1,0 +1,17 @@
+img{
+width: 500px;
+height: auto;
+display: block;
+}
+.content{
+    width: 70%;
+    background-color: aliceblue;
+}
+.main{
+    display: flex;
+
+}
+@media screen and  {max-width: 767px};
+    .main{
+        
+    }

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div1{
+    width: 250px;
+    height: 250px;
+    background-color: brown;
+    margin: 50px 100px;
+    border: 5px solid black;
+    padding: 200px;
+    margin: auto;
+}
+.div2{
+    width: 100px;    
+    height: 200px;
+    background-color: chartreuse;
+   border: 5px ridge black;
+   margin: auto;
+
+}

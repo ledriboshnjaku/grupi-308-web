@@ -1,0 +1,23 @@
+p{
+    color: red;
+}
+/* po tregojm  qe pi thirim krejt klasat me paragraphet  */
+p.paragraph{
+    color: blue;
+}
+/* po tregojm  qe pi thirim krejt klasat me paragraphet  */
+p, .paragraph1{
+    color: green;
+}
+div p {
+    background-color: red;}
+    
+    .div2 h3{
+        color: blue;
+    }
+    .div3> p {
+        background-color: blue;
+    }
+    p ~ul {
+        background-color: red;
+    }

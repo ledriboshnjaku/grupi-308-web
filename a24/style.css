@@ -1,0 +1,20 @@
+.main{
+    background-color: aqua;
+    width: 250px;
+    height: 250px;
+    transition: width 1s,height 1s;
+    margin-left: 30px;
+    transition: margin-left 0.5s 1s;
+    /* margin-top: 20px;
+    transition: margin-top 0.5s 1s; */
+}
+.main:hover{
+    width: 300px;
+    height: 300px;
+    transition: width  width 1s,height 1s;
+    margin-left: 50px;
+    /* margin-top: 30px;
+    transition: margin-top 0.5s 1s; */
+    transition: margin-left 0.5s 1s;
+    
+}

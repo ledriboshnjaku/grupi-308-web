@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 80px;
+    background-color: transparent;
+    color: white;
+    margin-bottom: -80px;
+}
+h1{
+    text-align: center;
+     position: relative;
+     top:20px;
+}
+.first-s{
+    background-image: url("image-36-copyright.jpg");
+    height: 100vh;
+    background-size: cover;
+    /* height: calc(100vh - 80px); */
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    gap:30px;
+}
+button{
+    padding: 17px 46px;
+    border-radius: 50px;
+    border-color: transparent;
+}
+.second-s{
+    height: 70vh;
+    display: flex;
+    background-color: #eeede0;
+}
+.content{
+    width: 50%;
+}
+.img{
+    background-image: url("image-graph-copyright.jpg");
+    height: 70vh;
+    width: 50%;
+}

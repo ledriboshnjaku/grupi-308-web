@@ -1,0 +1,16 @@
+body{
+    overflow-x: hidden;
+
+}
+p{
+    float: right;
+    width: 50%;
+
+}
+img{
+    float: left;
+    width: 40%;
+}
+h3{
+    clear: both;
+}

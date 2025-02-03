@@ -1,0 +1,40 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.box2{
+    background-color: blue;
+
+
+}
+.box3{
+    background-color: yellow;
+
+}
+.box4{
+    background-color: green;
+
+}
+.cont1,.cont2{
+    display: flex;
+}
+.box1:hover{
+    transform: rotate(90deg);
+    transition: .5s ease-in-out;
+
+
+}
+.box2:hover{
+    transform: rotate(90deg);
+    transition: .5s ease-in-out;
+
+}
+.box3:hover{
+    transform:rotate(90deg);
+    transition: .5s ease-in-out;
+}
+.box4:hover{
+    transform: rotate(90deg);
+    transition: .5s ease-in-out;;
+}

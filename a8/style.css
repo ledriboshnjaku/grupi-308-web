@@ -1,0 +1,18 @@
+li{
+    list-style: lower-greek;
+}
+.ledri{
+    list-style: lower-latin;
+    color: aqua;
+}
+.lis{
+    list-style: square;
+    color: pink;
+}
+ul li{
+    list-style: square;
+}
+.gentrit{
+    list-style: square;
+    color: brown;
+}

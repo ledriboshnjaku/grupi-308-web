@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  height: 70px;
+  background-color: red;
+}
+header img {
+  width: 150px;
+  height: auto;
+}
+header .logo {
+  width: 40%;
+}
+header :tton .menu {
+  display: flex;
+  width: 60%;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  gap: 30px;
+}
+ul li {
+  list-style: none;
+}/*# sourceMappingURL=style.css.map */

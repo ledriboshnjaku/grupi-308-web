@@ -1,0 +1,16 @@
+.main {
+  background-color: red;
+  width: 500px;
+  height: 500px;
+  display: flex;
+}
+.main .container {
+  background-color: blue;
+  width: 50%;
+  height: 100%;
+}
+.main .container2 {
+  background-color: aqua;
+  width: 50%;
+  height: 100%;
+}/*# sourceMappingURL=style.css.map */
